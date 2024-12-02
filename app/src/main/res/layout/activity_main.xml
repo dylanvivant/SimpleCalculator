@@ -72,7 +72,6 @@
                     android:textColor="#212121"
                     android:elevation="4dp" />
 
-                <!-- Répétez pour les autres boutons avec les mêmes propriétés -->
                 <Button
                     android:id="@+id/btn8"
                     android:layout_width="0dp"
